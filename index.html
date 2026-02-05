@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Address Book & Places You've Been</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <section>
+        <h1>Address Book</h1>
+        <form id="contact-form">
+            <input id="first-name" type="text" placeholder="First Name" required>
+            <input id="last-name" type="text" placeholder="Last Name" required>
+            <input id="phone-number" type="text" placeholder="Phone Number" required>
+            <button type="submit">Add Contact</button>
+        </form>
+        <ul id="contact-list"></ul>
+    </section>
+
+    <section>
+        <h1>Places You've Been</h1>
+        <form id="place-form">
+            <input id="location" type="text" placeholder="Location" required>
+            <input id="landmarks" type="text" placeholder="Landmarks">
+            <input id="season" type="text" placeholder="Time of Year">
+            <textarea id="notes" placeholder="Notes"></textarea>
+            <button type="submit">Add Place</button>
+        </form>
+        <ul id="places-list"></ul>
+        
+        <div id="place-details"></div>
+    </section>
+
+  <script src="script.js"></script>
+</body>
+</html>

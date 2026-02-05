@@ -1,0 +1,31 @@
+body {
+    color: black;
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+}
+
+input, textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 8px 12px;
+}
+
+
+li {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
+#place-details {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
