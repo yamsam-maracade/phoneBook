@@ -13,6 +13,4 @@ All business logic was developed using test-driven development.
 Tests verify:
 - Object creation
 - Prototype methods
-- State changes (e.g., task completion)
-
-Tests are written using Jest (or console assertions).
+- State changes
