@@ -16,8 +16,15 @@
 - Open the file in your browser.
 - Add contact by filling in the first name, last name and phone number.
 - Fill in location, landmarks, season and add some notes to add a place.
+
+## AUTHOR
+- YUSSUF ABDIRIZAK (YAMSAM MARACADE)
+
 ## Contact Information
 - For inquiries, please contact:
 
 - YUSSUF ABDIRIZAK: yamsammaracade50@gmail.com
 - Github link: https://github.com/yamsam-maracade
+
+## LICENCE
+- This project is licenced under the MIT licence
