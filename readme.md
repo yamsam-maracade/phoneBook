@@ -17,6 +17,10 @@
 - Add contact by filling in the first name, last name and phone number.
 - Fill in location, landmarks, season and add some notes to add a place.
 
+## Tests
+- const place = new Place("Makkah", ["The Holy Kaabah"], "Spring", "Best place");
+- Expected Output: Makkah
+
 ## AUTHOR
 - YUSSUF ABDIRIZAK (YAMSAM MARACADE)
 
