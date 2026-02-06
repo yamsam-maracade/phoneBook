@@ -15,6 +15,9 @@ input, textarea {
 button {
     padding: 8px 12px;
 }
+button:hover{
+    color: red;
+}
 
 
 li {
