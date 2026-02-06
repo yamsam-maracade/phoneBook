@@ -7,3 +7,8 @@
 - Add contact
 - Add places
 
+## TECHNOLOGIES USED
+- HTML
+- CSS
+- JAVASCRIPT
+
