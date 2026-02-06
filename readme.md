@@ -12,3 +12,7 @@
 - CSS
 - JAVASCRIPT
 
+## USAGE
+- Open the file in your browser.
+- Add contact by filling in the first name, last name and phone number.
+- Fill in location, landmarks, season and add some notes to add a place.
